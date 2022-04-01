@@ -1,4 +1,4 @@
-# note_finder5: Get musical note from guitar tab
+# note_finder: Get musical note from guitar tab
 PyQt app that finds musical note from guitar tab
 
 ## Execute from command line
